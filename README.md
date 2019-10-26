@@ -4,3 +4,5 @@
 
 how to run?
 - call start();
+
+![result](https://github.com/deathnopool/8Queens/blob/master/result.png)
